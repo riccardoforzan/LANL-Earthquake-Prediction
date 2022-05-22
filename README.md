@@ -7,3 +7,6 @@
 * [LANL - Earthquake Prediction](https://medium.com/kaggle-lanl-earthquake-prediction/kaggle-lanl-earthquake-prediction-b028ae69871a)
 * [Estimating Fault Friction From Seismic Signals in the Laboratory](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL076708)
 * [Machine Learning Predicts Laboratory Earthquakes](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL074677)
+
+## Our runs
+* [Kaggle notebook - Catboost basic feature](https://www.kaggle.com/code/riccardoforzan/catboost-basic-features/notebook)
